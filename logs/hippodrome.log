@@ -1,0 +1,88 @@
+2024-12-29 13:04:17.829  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Bucephalus],Speed  - [2.4], 
+2024-12-29 13:04:17.832  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Ace of Spades],Speed  - [2.5], 
+2024-12-29 13:04:17.832  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Zephyr],Speed  - [2.6], 
+2024-12-29 13:04:17.833  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Blaze],Speed  - [2.7], 
+2024-12-29 13:04:17.833  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Lobster],Speed  - [2.8], 
+2024-12-29 13:04:17.833  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegasus],Speed  - [2.9], 
+2024-12-29 13:04:17.834  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Cherry],Speed  - [3.0], 
+2024-12-29 13:04:17.835  INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - Creating hippodrome. Number of horses [7] 
+2024-12-29 13:04:17.835  INFO [main] [Main.main(Main.java:22)] - Start of the race. Number of participants : 7
+2024-12-29 13:04:38.640  INFO [main] [Main.main(Main.java:32)] - End of the race. Winner is Cherry
+2024-12-29 13:06:49.612  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Bucephalus],Speed  - [2.4], 
+2024-12-29 13:06:49.615  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Ace of Spades],Speed  - [2.5], 
+2024-12-29 13:06:49.616  ERROR [main] [Horse.<init>(Horse.java:23)] - Speed is negative
+2024-12-29 13:07:04.270  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Bucephalus],Speed  - [2.4], 
+2024-12-29 13:07:04.273  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Ace of Spades],Speed  - [2.5], 
+2024-12-29 13:07:04.273  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Zephyr],Speed  - [2.6], 
+2024-12-29 13:07:04.274  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Blaze],Speed  - [2.7], 
+2024-12-29 13:07:04.274  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Lobster],Speed  - [2.8], 
+2024-12-29 13:07:04.274  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegasus],Speed  - [2.9], 
+2024-12-29 13:07:04.275  ERROR [main] [Horse.<init>(Horse.java:19)] - Name is blank
+2024-12-29 18:37:46.936  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Bucephalus],Speed  - [2.4], 
+2024-12-29 18:37:46.939  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Ace of Spades],Speed  - [2.5], 
+2024-12-29 18:37:46.939  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Zephyr],Speed  - [2.6], 
+2024-12-29 18:37:46.939  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Blaze],Speed  - [2.7], 
+2024-12-29 18:37:46.940  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Lobster],Speed  - [2.8], 
+2024-12-29 18:37:46.940  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegasus],Speed  - [2.9], 
+2024-12-29 18:37:46.940  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Cherry],Speed  - [3.0], 
+2024-12-29 18:37:46.941  INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - Creating hippodrome. Number of horses [7] 
+2024-12-29 18:37:46.942  INFO [main] [Main.main(Main.java:22)] - Start of the race. Number of participants : [7]
+2024-12-29 18:38:07.845  INFO [main] [Main.main(Main.java:32)] - End of the race. Winner is [Pegasus]
+2024-12-29 18:42:29.221  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegsus],Speed  - [1.1], 
+2024-12-29 18:42:29.236  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegsus],Speed  - [1.1], 
+2024-12-29 18:42:29.363  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [TestHorse],Speed  - [1.1], 
+2024-12-29 18:42:29.401  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [TestHorse],Speed  - [1.1], 
+2024-12-29 18:42:29.411  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [TestHorse],Speed  - [1.1], 
+2024-12-29 18:42:29.420  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [TestHorse],Speed  - [1.1], 
+2024-12-29 18:42:29.428  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [TestHorse],Speed  - [10.0], 
+2024-12-29 18:42:29.443  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegasus],Speed  - [1.1], 
+2024-12-29 18:42:29.450  ERROR [main] [Horse.<init>(Horse.java:23)] - Speed is negative
+2024-12-29 18:42:29.462  ERROR [main] [Horse.<init>(Horse.java:19)] - Name is blank
+2024-12-29 18:42:29.469  ERROR [main] [Horse.<init>(Horse.java:16)] - Name is null
+2024-12-29 18:42:29.476  ERROR [main] [Horse.<init>(Horse.java:27)] - Distance is negative
+2024-12-29 18:42:29.507  ERROR [main] [Horse.<init>(Horse.java:19)] - Name is blank
+2024-12-29 18:42:29.515  ERROR [main] [Horse.<init>(Horse.java:19)] - Name is blank
+2024-12-29 18:42:29.521  ERROR [main] [Horse.<init>(Horse.java:19)] - Name is blank
+2024-12-29 18:42:29.529  ERROR [main] [Horse.<init>(Horse.java:23)] - Speed is negative
+2024-12-29 18:42:29.534  ERROR [main] [Horse.<init>(Horse.java:16)] - Name is null
+2024-12-29 18:42:29.539  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Pegasus],Speed  - [1.1], 
+2024-12-29 18:42:29.545  ERROR [main] [Horse.<init>(Horse.java:27)] - Distance is negative
+2024-12-29 18:42:29.559  ERROR [main] [Hippodrome.<init>(Hippodrome.java:16)] - Horses list is null
+2024-12-29 18:42:29.564  ERROR [main] [Hippodrome.<init>(Hippodrome.java:16)] - Horses list is null
+2024-12-29 18:42:29.709  INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - Creating hippodrome. Number of horses [50] 
+2024-12-29 18:42:29.778  ERROR [main] [Hippodrome.<init>(Hippodrome.java:19)] - Horses list is empty
+2024-12-29 18:42:29.781  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 1],Speed  - [0.1], 
+2024-12-29 18:42:29.781  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 2],Speed  - [0.2], 
+2024-12-29 18:42:29.781  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 3],Speed  - [0.3], 
+2024-12-29 18:42:29.782  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 4],Speed  - [0.4], 
+2024-12-29 18:42:29.782  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 5],Speed  - [0.5], 
+2024-12-29 18:42:29.782  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 6],Speed  - [0.6], 
+2024-12-29 18:42:29.783  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 7],Speed  - [0.7], 
+2024-12-29 18:42:29.783  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 8],Speed  - [0.8], 
+2024-12-29 18:42:29.783  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 9],Speed  - [0.9], 
+2024-12-29 18:42:29.783  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 10],Speed  - [1.0], 
+2024-12-29 18:42:29.783  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 11],Speed  - [1.1], 
+2024-12-29 18:42:29.784  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 12],Speed  - [1.2], 
+2024-12-29 18:42:29.784  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 13],Speed  - [1.3], 
+2024-12-29 18:42:29.784  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 14],Speed  - [1.4], 
+2024-12-29 18:42:29.784  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 15],Speed  - [1.5], 
+2024-12-29 18:42:29.784  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 16],Speed  - [1.6], 
+2024-12-29 18:42:29.784  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 17],Speed  - [1.7], 
+2024-12-29 18:42:29.785  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 18],Speed  - [1.8], 
+2024-12-29 18:42:29.785  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 19],Speed  - [1.9], 
+2024-12-29 18:42:29.785  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 20],Speed  - [2.0], 
+2024-12-29 18:42:29.785  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 21],Speed  - [2.1], 
+2024-12-29 18:42:29.785  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 22],Speed  - [2.2], 
+2024-12-29 18:42:29.786  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 23],Speed  - [2.3], 
+2024-12-29 18:42:29.786  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 24],Speed  - [2.4], 
+2024-12-29 18:42:29.786  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 25],Speed  - [2.5], 
+2024-12-29 18:42:29.786  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 26],Speed  - [2.6], 
+2024-12-29 18:42:29.786  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 27],Speed  - [2.7], 
+2024-12-29 18:42:29.787  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 28],Speed  - [2.8], 
+2024-12-29 18:42:29.787  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 29],Speed  - [2.9], 
+2024-12-29 18:42:29.787  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse 30],Speed  - [3.0], 
+2024-12-29 18:42:29.787  INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - Creating hippodrome. Number of horses [30] 
+2024-12-29 18:42:29.790  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse1],Speed  - [1.0], 
+2024-12-29 18:42:29.791  INFO [main] [Horse.<init>(Horse.java:34)] - Creating horse. Name [Horse1],Speed  - [1.0], 
+2024-12-29 18:42:29.791  INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - Creating hippodrome. Number of horses [2] 
+2024-12-29 18:42:29.796  ERROR [main] [Hippodrome.<init>(Hippodrome.java:19)] - Horses list is empty
